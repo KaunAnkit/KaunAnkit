@@ -13,6 +13,14 @@ Aspiring full-stack developer with a keen interest in web development and machin
 ## Projects
 
 Visit the [Repositories tab](https://github.com/KaunAnkit?tab=repositories) to see what I’ve been working on.
+  _  _
+  | || | _
+ -| || || |
+  | || || |-
+   \_  || |    it's dry
+     |  _/
+    -| | \
+     |_|-      and empty.
 
 ## Contact
 
