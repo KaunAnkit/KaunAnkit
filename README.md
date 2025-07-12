@@ -2,7 +2,7 @@
 
 # Ankit Jha
 
-Aspiring full-stack developer with a keen interest in web development and machine learning. Currently exploring modern web technologies like JavaScript, React, and Python for backend development. Open to learning and collaborating on new and challenging projects.
+A learner exploring code & aviation. Fascinated by how software works. Aspiring to build systems behind fighter jets. Always learning.
 
 ## Areas of Interest
 
