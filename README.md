@@ -8,7 +8,7 @@ A learner exploring code & aviation. Fascinated by how software works. Aspiring 
 
 - Frontend development (HTML, CSS, JavaScript)
 - Backend fundamentals (Node.js, Express, Python)
-- Machine Learning (using Python and scikit-learn)
+- Machine Learning (using Python , NumPy , scikit-learn)
 
 ## Projects
 
