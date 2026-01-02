@@ -14,9 +14,9 @@ Aspiring Software Engineer & ML Researcher
 
 <br><br>
 
-#          \       /
-#           \_(o)_/
-#   +---====(](.)[)====---+
+          \       /
+           \_(o)_/
+   +---====(](.)[)====---+
 
 ps. I like planes
 </samp>
