@@ -6,7 +6,7 @@ Contact
 <a href="https://www.linkedin.com/in/ankitjhacodes/">linkedin</a> •
 <a href="mailto:kaunankitjha@gmail.com">email</a>
 
-Aspiring Software Engineer & ML Researcher
+AI Engineer & Learner
 
 <pre><code>
           \       /
