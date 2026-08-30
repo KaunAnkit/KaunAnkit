@@ -14,5 +14,5 @@ AI Engineer & Learner
    +---====(](.)[)====---+
 </code></pre>
 
-ps. I like planes
+ps. I like planes and python
 </samp>
